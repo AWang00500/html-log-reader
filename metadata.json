@@ -1,6 +1,0 @@
-{
-  "name": "暖析日誌 · 日誌診斷與分類工具",
-  "description": "上傳 .LOG 或 .TXT 日誌檔案，自動分類為成功、失敗、警告與其他四個頁籤，並提供失敗與警告的可能原因推測與檢查檔案建議。",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
